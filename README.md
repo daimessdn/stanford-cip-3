@@ -1,4 +1,4 @@
-# Stanford Code In Place
+# Code In Place 2023
 
 ## Overview
 This repository contains all of my assignments and personal projects based on **Code In Place 2023**.
