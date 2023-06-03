@@ -15,4 +15,4 @@ https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html
 | [Stone Mason Karel](./stone-mason-karel.py)   | :heavy_check_mark: |                    |            |
 | [2023 Karel](./2023-karel.py)                 | :heavy_check_mark: |                    |            |
 | [Jigsaw Karel](./jigsaw-karel.py)             | :heavy_check_mark: |                    |            |
-| [Hospital Karel](./section/hospital-karel.py) |                    | :heavy_check_mark: |            |
+| [Hospital Karel](./sections/hospital-karel.py) |                    | :heavy_check_mark: |            |
