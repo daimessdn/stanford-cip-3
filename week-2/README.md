@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the secnd week of the course. In this week, we will play and explore further of Karel and playing with simple program of real Python console.
+This is the second week of the course. In this week, we will play and explore further of Karel and playing with simple program of real Python console.
 
 ## Documentation
 
